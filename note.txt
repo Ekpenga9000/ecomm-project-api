@@ -1,0 +1,18 @@
+- E -comm shop is a fashion e commerce store. 
+
+- E-comm has 4 categories, 
+    - Men
+    - Women
+    - Accessories
+    - Shoes
+
+- products would have the following attributes. 
+    -id
+    -category
+    -name (e.g Loose Fit Baseball Jacket)
+    -type(shirt, t-shirt, pants, skirt, blouse, gown etc.)
+    -brand-name
+    -color
+    -size
+    -price
+    -img
